@@ -85,3 +85,8 @@ Das Wesen von Organisationen
 - Planung und Ausführung von Aktivitäten sind streng voneinander getrennt &mdash; *das Denken passiert oben, das Tun unten*
 
 - die Weltsicht bezüglich der Angehörigen der Organisation geht davon aus, dass Arbeiter meist faul und unehrlich sind &#8594; daher brauchen sie klare Anweisungen
+
+
+#### Soziale Aspekte *traditioneller Organisationen*
+
+- die soziale Stabilität von *tradionellen Organisationen* hat den Preis, dass alle eine Maske tragen, indem sie lernen, sich von ihrem individuellen Wesen und ihren persönlichen Wünschen, Bedürfnissen und Gefühlen zu distanzieren
