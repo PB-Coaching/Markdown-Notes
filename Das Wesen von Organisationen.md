@@ -79,3 +79,9 @@ Das Wesen von Organisationen
 
   - die Idee, dass es einen richtigen Weg des Handelns gibt, erschwert es *traditionellen Organisationen* mit Konkurrenz umzugehen und hierauf zu reagieren
   - *traditionelle Organisationen* streben grundsätzlich nach Dominanz und einer Monopolstellen
+
+#### Handlungsweisen *traditioneller Organisationen*
+
+- Planung und Ausführung von Aktivitäten sind streng voneinander getrennt &mdash; *das Denken passiert oben, das Tun unten*
+
+- die Weltsicht bezüglich der Angehörigen der Organisation geht davon aus, dass Arbeiter meist faul und unehrlich sind &#8594; daher brauchen sie klare Anweisungen
