@@ -52,8 +52,6 @@ Das Wesen von Organisationen
 
 
 
-
-
 ## Traditionelle Organisationen
 
 - mit *traditionellen Organisationen* kamen zwei entscheidende Durchbrüche
@@ -70,4 +68,11 @@ Das Wesen von Organisationen
   &#8594; Wissen kann über Generationen hinweg weitergegeben werden
   &#8594; **jede Person kann von einer anderen ersetzt werden, welche die gleiche Rolle in diesem Prozess einnimmt**
 
-- im *traditionellen konformistischen Paradigma* suchen Menschen nach Ordbung und Vorhersehbarkeit &mdash; gleiches gilt für Organisationen 
+- im *traditionellen konformistischen Paradigma* suchen Menschen nach Ordbung und Vorhersehbarkeit &mdash; gleiches gilt für Organisationen
+
+
+- die Zukunft wird aufgrund vergangener Erfahrung geplant
+
+- *traditionelle Organisationen* folgen der unbewussten Annahme, dass es **eine** richtige Handlungsweise gibt und die Welt unveränderlich ist oder sein sollte
+  &#8594; wenn sich der Kontext verändert, funktionieren althergerbrachte Handlungsweisen nicht mehr
+  &#8594; *traditionellen Organisationen* fällt es schwer
