@@ -75,4 +75,7 @@ Das Wesen von Organisationen
 
 - *traditionelle Organisationen* folgen der unbewussten Annahme, dass es **eine** richtige Handlungsweise gibt und die Welt unveränderlich ist oder sein sollte
   &#8594; wenn sich der Kontext verändert, funktionieren althergerbrachte Handlungsweisen nicht mehr
-  &#8594; *traditionellen Organisationen* fällt es schwer
+  &#8594; *traditionellen Organisationen* fällt es schwer, Veränderungen zu akzeptierten
+
+  - die Idee, dass es einen richtigen Weg des Handelns gibt, erschwert es *traditionellen Organisationen* mit Konkurrenz umzugehen und hierauf zu reagieren
+  - *traditionelle Organisationen* streben grundsätzlich nach Dominanz und einer Monopolstellen
