@@ -90,3 +90,6 @@ Das Wesen von Organisationen
 #### Soziale Aspekte *traditioneller Organisationen*
 
 - die soziale Stabilität von *tradionellen Organisationen* hat den Preis, dass alle eine Maske tragen, indem sie lernen, sich von ihrem individuellen Wesen und ihren persönlichen Wünschen, Bedürfnissen und Gefühlen zu distanzieren
+  - die Menschen leben stattdessen ein sozial akzeptiertes sich
+
+- um innere Konflikte in der Gruppe zu vermeiden, wird die Schuld für Probleme und Fehler meist bei anderen gesucht
