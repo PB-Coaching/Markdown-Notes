@@ -106,3 +106,5 @@ Das Wesen von Organisationen
   &rArr;es gibt kein absolutes richtig oder falsch, es gibt nur Dinge, die besser funktionieren als anderen
   &rArr; *je besser ich verstehe, wie die Welt funktioniert, desto mehr kann ich erreichen*
   &rArr; die beste Entscheidung ist diejenige, welche die besten Ergebnisse bringt
+
+- **das Ziel im Leben besteht darin, besser als andere zu sein, in sozial akzeptierter Weise erfolgreich zu sein**
