@@ -106,3 +106,18 @@ Das Wesen von Organisationen
   &rArr;es gibt kein absolutes richtig oder falsch, es gibt nur Dinge, die besser funktionieren als anderen
   &rArr; *je besser ich verstehe, wie die Welt funktioniert, desto mehr kann ich erreichen*
   &rArr; die beste Entscheidung ist diejenige, welche die besten Ergebnisse bringt
+
+- **das Ziel im Leben besteht darin, besser als andere zu sein, in sozial akzeptierter Weise erfolgreich zu sein**
+
+
+#### Fortschritte durch das leistungsorientierte Paradigma
+
+- mit dem Fokus auf Leistung konnten Menschen die Vorstellung hinter sich lassen, dass eine Autorität die richtige Antwort auf Fragen und Problemstellungen Haltung
+  &rArr; Menschen vertrauen stattdessen au das Wissen von Experten, um Einsichten in die komplexen Mechanismen der Welt zu erlangen
+  &rArr; Skepsis gegenüber offenbarten Wahrheit hat sich entwickelt
+
+- Menschen können zum ersten Mal selbst die Wahrheit untersuchen, ohne ein religiöses Dogma oder eine politische Autorität zu fürchten
+
+- sie wurden in die Lage versetzt, gegebene Dinge zu hinterfragen und aus den Bedingungen, in die sie hineingeboren wurden, hinauszutreten
+
+- da Menschen das Bedürfnis haben, in der Gesellschaft als sozial erfolgreich angesehen zu werden, sind sie bereit, soziale Konventionen anzunehmen, wenn ihnen diese hierbei hilfreich sind
