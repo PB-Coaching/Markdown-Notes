@@ -8,9 +8,9 @@ Das Wesen von Organisationen
 
 -  Tribale Organisationen können aufgrund ihres Fokus auf die Gegenwart kaum planen und Strategien entwerfen
 
-      * Sie reagieren sehr stark auf neue Gefahren und Möglichkeiten
+    * Sie reagieren sehr stark auf neue Gefahren und Möglichkeiten
 
-     * Diese nutzen sie skrupellos aus ohne Blick auf etwaige langfristige Konsequenzen oder Nachhaltigkeit
+    * Diese nutzen sie skrupellos aus ohne Blick auf etwaige langfristige Konsequenzen oder Nachhaltigkeit
 
 - Sie sind sehr gut an chaotische Umgebungen angepasst: *Bürgerkriege* & *Failed States*  
 
@@ -37,7 +37,7 @@ Das Wesen von Organisationen
 
   * Menschen suchen Anerkennung, Akzeptanz und Zugehörigkeit in ihrem sozialem Umkreis
 
-- Menschen verinnerlichen Gruppennormen &rArr;Gruppendenken und Ausgrenzung entstehen
+- Menschen verinnerlichen Gruppennormen &rArr; Gruppendenken und Ausgrenzung entstehen
 
 - **Die Egozentrik des impulsiven Bewusstseins wird durch die ethnozentrische Haltung des konformistischen Bewusstseins ersetzt**
 
@@ -55,8 +55,8 @@ Das Wesen von Organisationen
 ## Traditionelle Organisationen &mdash; <span style="color:#DAA520">*Bernstein*</span>
 
 - mit *traditionellen Organisationen* kamen zwei entscheidende Durchbrüche
-  &rArr;Organisationen können nun *kurz- und langfristig planen*
-  &rArr;sie sind in der Lage, *Organisationsstrukturen zu schaffen, die stabil sind und wachsen können*
+  &rArr; Organisationen können nun *kurz- und langfristig planen*
+  &rArr; sie sind in der Lage, *Organisationsstrukturen zu schaffen, die stabil sind und wachsen können*
 
 
 #### Erster Durchbruch: langfristige Perspektive
@@ -64,9 +64,9 @@ Das Wesen von Organisationen
 - durch Prozesse können wir Erfahrungen der Vergangenheit in der Zukunft wiederholen
 
 - durch Prozese hängt das erforderliche Wissen nicht mehr von einer bestimmten Person ab
-  &rArr;Wissen wird in Organisationen aufgenommen
-  &rArr;Wissen kann über Generationen hinweg weitergegeben werden
-  &rArr;**jede Person kann von einer anderen ersetzt werden, welche die gleiche Rolle in diesem Prozess einnimmt**
+  &rArr; Wissen wird in Organisationen aufgenommen
+  &rArr; Wissen kann über Generationen hinweg weitergegeben werden
+  &rArr; **jede Person kann von einer anderen ersetzt werden, welche die gleiche Rolle in diesem Prozess einnimmt**
 
 - im *traditionellen konformistischen Paradigma* suchen Menschen nach Ordbung und Vorhersehbarkeit &mdash; gleiches gilt für Organisationen
 
@@ -74,8 +74,8 @@ Das Wesen von Organisationen
 - die Zukunft wird aufgrund vergangener Erfahrung geplant
 
 - *traditionelle Organisationen* folgen der unbewussten Annahme, dass es **eine** richtige Handlungsweise gibt und die Welt unveränderlich ist oder sein sollte
-  &rArr;wenn sich der Kontext verändert, funktionieren althergerbrachte Handlungsweisen nicht mehr
-  &rArr;*traditionellen Organisationen* fällt es schwer, Veränderungen zu akzeptierten
+  &rArr; wenn sich der Kontext verändert, funktionieren althergerbrachte Handlungsweisen nicht mehr
+  &rArr; *traditionellen Organisationen* fällt es schwer, Veränderungen zu akzeptierten
 
   - die Idee, dass es einen richtigen Weg des Handelns gibt, erschwert es *traditionellen Organisationen* mit Konkurrenz umzugehen und hierauf zu reagieren
   - *traditionelle Organisationen* streben grundsätzlich nach Dominanz und einer Monopolstellen
@@ -84,13 +84,13 @@ Das Wesen von Organisationen
 
 - Planung und Ausführung von Aktivitäten sind streng voneinander getrennt &mdash; *das Denken passiert oben, das Tun unten*
 
-- die Weltsicht bezüglich der Angehörigen der Organisation geht davon aus, dass Arbeiter meist faul und unehrlich sind &rArr;daher brauchen sie klare Anweisungen
+- die Weltsicht bezüglich der Angehörigen der Organisation geht davon aus, dass Arbeiter meist faul und unehrlich sind &rArr; daher brauchen sie klare Anweisungen
 
 
 
 #### Soziale Aspekte *traditioneller Organisationen*
 
-- die soziale Stabilität von *tradionellen Organisationen* hat den Preis, dass alle eine Maske tragen, indem sie lernen, sich von ihrem individuellen Wesen und ihren persönlichen Wünschen, Bedürfnissen und Gefühlen zu distanzieren
+- die soziale Stabilität von *traditionellen Organisationen* hat den Preis, dass alle eine Maske tragen, indem sie lernen, sich von ihrem individuellen Wesen und ihren persönlichen Wünschen, Bedürfnissen und Gefühlen zu distanzieren
   - die Menschen leben stattdessen ein sozial akzeptiertes sich
 
 - um innere Konflikte in der Gruppe zu vermeiden, wird die Schuld für Probleme und Fehler meist bei anderen gesucht
@@ -103,7 +103,7 @@ Das Wesen von Organisationen
 ### Das moderne leistungsorientierte Paradigma &mdash; <span style="color:#FFA500">*Orange*</span>
 
 - auf der leistungsorientierten Bewusstseinsstufe ersetzt Effektivität die Moral als Maßstab für die Entscheidungsfindung
-  &rArr;es gibt kein absolutes richtig oder falsch, es gibt nur Dinge, die besser funktionieren als anderen
+  &rArr; es gibt kein absolutes richtig oder falsch, es gibt nur Dinge, die besser funktionieren als anderen
   &rArr; *je besser ich verstehe, wie die Welt funktioniert, desto mehr kann ich erreichen*
   &rArr; die beste Entscheidung ist diejenige, welche die besten Ergebnisse bringt
 
@@ -121,3 +121,10 @@ Das Wesen von Organisationen
 - sie wurden in die Lage versetzt, gegebene Dinge zu hinterfragen und aus den Bedingungen, in die sie hineingeboren wurden, hinauszutreten
 
 - da Menschen das Bedürfnis haben, in der Gesellschaft als sozial erfolgreich angesehen zu werden, sind sie bereit, soziale Konventionen anzunehmen, wenn ihnen diese hierbei hilfreich sind
+
+- Menschen, die nach dieser modernen Perspektive leben, stehen religiösen Vorschriften ablehnend gegenüber
+
+- die Weltsicht dieser Stufe ist vollkommen _materialistisch_
+  &rArr; das _moderne Paradigma_ misstraut jeder Form von Spiritualität &mdash; es fällt den Menschen schwer, an etwas zu glauben, das weder beobachtet werden noch bewiesen werden kann
+
+- <span style="color:##8B008B">**nach der materiellen Weltsicht _mehr_ meist als _besser_ verstanden**</span>
