@@ -127,4 +127,11 @@ Das Wesen von Organisationen
 - die Weltsicht dieser Stufe ist vollkommen _materialistisch_
   &rArr; das _moderne Paradigma_ misstraut jeder Form von Spiritualität &mdash; es fällt den Menschen schwer, an etwas zu glauben, das weder beobachtet werden noch bewiesen werden kann
 
-- <span style="color:##8B008B">**nach der materiellen Weltsicht _mehr_ meist als _besser_ verstanden**</span>
+- <span style="color:#8B008B">**nach der materiellen Weltsicht _mehr_ meist als _besser_ verstanden**</span>
+
+- <span style="color:#8B008B">**in der _modernen Perspektive_ leben die Menschen stets in der Zukunft &mdash; sie sind stets beschäftigt mit Selbstgesprächen über Dinge, die sie noch tun müssen**</span>
+
+
+### Der erste Durchbruch moderner Organisationen: Innovationen
+
+- _traditionelle Organisationen_ werden vollkommen durch **Prozesse** bestimmt, _moderne Organisationen_ hingegen haben **Prozesse & Projekte** im Zentrum ihres Handelns
