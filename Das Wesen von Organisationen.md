@@ -141,4 +141,23 @@ Das Wesen von Organisationen
 
 ### Der zweite Durchbruch moderner Organisationen: Verlässlichkeit
 
-- 
+- aus **Befehl & Kontrolle** traditionelle Organisationen wird **Vorhersehen & Kontrollieren** moderner Organisationen
+  - es wird zu einem Konkurrenzvorteil, wenn eine Organisation die Intelligenz vieler Mitarbeiter nutzt, um schneller Innovationen hervorzubringen
+
+- Vorgesetzten ist es zu einem gewissen Grad egal, wie Ziele erreicht werden, solange sie erfüllt werden
+
+
+### Der dritte Durchbruch moderner Organisationen: Leistungsprinzip
+
+- Menschen wechseln im Laufe ihrer Karriere oft ihre Position innerhalb einer Organisation oder wechseln sogar die Organisation selbst
+  &rArr; die traditionelle Verschmelzung ihrer Identität mit dem Rang und der Position in der hierarchischen Pyramide wird hierdurch geschwächt
+
+- _Rationalität_ genießt innerhalb der Organisation und letztendlich in der Gesellschaft höchstes Ansehen &mdash; individuelle Emotionen, Träume und Zweifel werden am besten hinter einer oberflächlichen Maske verborgen
+  &rArr; Menschen möchten sich nicht verletzlich machen
+
+- individuelle Identität ist nicht mehr Rang und Titel verknüpft, sondern mit dem Bedürfnis verbunden, als kompetent und erfolgreich angesehen zu werden, so dass eine Beförderung für eine höhere Position möglich ist
+
+- Führung ist auf dieser Entwicklungsstufe von Organisationen primär zielgerichtet und auf die Lösung greifbarer Probleme fokussiert
+  &rArr; Führung stellt _Aufgaben_ über _Beziehungen_
+  &rArr; Führung schätzt Rationalität und meidet Emotionen
+  &rArr; Fragen des Sinns und der Bedeutung erscheinen deplatziert
