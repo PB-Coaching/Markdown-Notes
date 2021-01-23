@@ -135,3 +135,10 @@ Das Wesen von Organisationen
 ### Der erste Durchbruch moderner Organisationen: Innovationen
 
 - _traditionelle Organisationen_ werden vollkommen durch **Prozesse** bestimmt, _moderne Organisationen_ hingegen haben **Prozesse & Projekte** im Zentrum ihres Handelns
+
+- _moderne Organisationen_ behalten als ihre Grundstruktur die Pyramide bei, jedoch öffnen sie die Grenzen einer festen funktionalen und hierarchischen Aufteilung, um die Kommunikation zu beschleunigen und Innovation zu unterstützen -- _Projektgruppen, virtuelle Teams, funktionsübergreifende Initiativen, Expertenfunktionen & interne Berater_
+
+
+### Der zweite Durchbruch moderner Organisationen: Verlässlichkeit
+
+- 
