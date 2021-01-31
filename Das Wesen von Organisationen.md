@@ -167,3 +167,16 @@ Das Wesen von Organisationen
 - _"Immer mehr Menschen verfügen heute über die Mittel zum Leben, aber über keinen Sinn, für den sie leben"_ (Viktor Frankl)
 
 ### Das postmoderne pluralistische Paradigma &mdash; <span style="color:#32CD32">*Grün*</span>
+
+- die _postmoderne pluralistische Weltsicht_ weist eine hohe Sensibilität für die Gefühle von Menschen aufgrund
+
+- sie besteht darauf, dass alle Perspektiven auf eine Sache den gleichen Respekt verdienen
+
+- ihre Leitwerte sind: **Fairness, Gleichheit, Harmonie, Gemeinschaft, Kooperation und Konsens**
+
+- das Individuum, welche nach dieser Weltsicht lebt, strebt nach Zugehörigkeit zur Gemeinschaft
+  &rArr; es möchte enge und harmonische Beziehungen mit allen Menschen bilden
+
+- für Menschen, die aus dieser Perspektive leben sind Beziehungen wichtiger als Ergebnisse
+
+- wo die _moderne Weltsicht_ Entscheidungen von oben nach unten trifft, auf objektiven Fakten und Expertenwissen basierend, 
