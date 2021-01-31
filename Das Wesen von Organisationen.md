@@ -161,3 +161,9 @@ Das Wesen von Organisationen
   &rArr; Führung stellt _Aufgaben_ über _Beziehungen_
   &rArr; Führung schätzt Rationalität und meidet Emotionen
   &rArr; Fragen des Sinns und der Bedeutung erscheinen deplatziert
+
+#### Die Schattenseiten der modernen Weltsicht
+
+- _"Immer mehr Menschen verfügen heute über die Mittel zum Leben, aber über keinen Sinn, für den sie leben"_ (Viktor Frankl)
+
+### Das postmoderne pluralistische Paradigma &mdash; <span style="color:#32CD32">*Grün*</span>
