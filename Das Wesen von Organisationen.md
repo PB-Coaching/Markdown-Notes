@@ -180,3 +180,5 @@ Das Wesen von Organisationen
 - für Menschen, die aus dieser Perspektive leben sind Beziehungen wichtiger als Ergebnisse
 
 - wo die _moderne Weltsicht_ Entscheidungen von oben nach unten trifft, auf objektiven Fakten und Expertenwissen basierend, 
+
+- 
