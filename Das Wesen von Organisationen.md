@@ -166,7 +166,7 @@ Das Wesen von Organisationen
 
 - _"Immer mehr Menschen verfügen heute über die Mittel zum Leben, aber über keinen Sinn, für den sie leben"_ (Viktor Frankl)
 
-### Das postmoderne pluralistische Paradigma &mdash; <span style="color:#32CD32">*Grün*</span>
+## Das postmoderne pluralistische Paradigma &mdash; <span style="color:#32CD32">*Grün*</span>
 
 - die _postmoderne pluralistische Weltsicht_ weist eine hohe Sensibilität für die Gefühle von Menschen aufgrund
 
@@ -179,6 +179,15 @@ Das Wesen von Organisationen
 
 - für Menschen, die aus dieser Perspektive leben sind Beziehungen wichtiger als Ergebnisse
 
-- wo die _moderne Weltsicht_ Entscheidungen von oben nach unten trifft, auf objektiven Fakten und Expertenwissen basierend, 
+- wo die _moderne Weltsicht_ Entscheidungen von oben nach unten trifft, auf objektiven Fakten und Expertenwissen basierend,
 
-- 
+- **die postmoderne Beziehung zu Regeln ist unklar und widersprüchlich:**
+  - Regeln sind schlussendlich stets willkürlich und für manche Menschen ungerecht
+  - zugleich ist es unpraktikabel, Regeln gänzlich abzuschaffen &rArr; hiermit würde Willkür und dem Recht des Stärkeren Tür und Tor geöffnet
+  - _das postmoderne Paradigma ist sehr effektiv darin, alte Strukturen einzureißen, zugleich vermag es kaum umsetzbare, realistische Alternativen aufzeigen_
+
+
+### Der erste Durchbruch postmoderner Organisationen: Empowerment
+
+- im Unterschied zu modernen Organisationen sollen Führungskräfte im _postmodernen Paradigma_ nicht nur distanzierte, emotionslose Problemlöser sein, sondern zugleich _Servant Leaders_ (dienende Führungskräfte)
+  - sie hören ihren Mitarbeitern zu, sie ermutigen und entwickeln sie
