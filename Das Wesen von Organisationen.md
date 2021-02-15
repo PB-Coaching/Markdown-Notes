@@ -192,4 +192,14 @@ Das Wesen von Organisationen
 - im Unterschied zu modernen Organisationen sollen Führungskräfte im _postmodernen Paradigma_ nicht nur distanzierte, emotionslose Problemlöser sein, sondern zugleich _Servant Leaders_ (dienende Führungskräfte)
   - sie hören ihren Mitarbeitern zu, sie ermutigen und entwickeln sie
 
-- 
+#### Postmoderne Organisationen verwenden viele Resourcen darauf, um ihre angehenden Führungskräfte in _Servant Leaders_ zu entwickeln
+
+- Bewerber für Managementpositionen werden auf ihre Denkweise und Verhalten geprüft: _Sind sie bereit, Macht mit anderen zu teilen? Werden sie mit Ergebenheit führen?_
+- Manager sind mittels _360-Grad Feedback_ ihren Vorgesetzten, wie auch ihren Mitarbeitern Rechenschaft schuldig
+
+
+### Der zweite Durchbruch: postmoderner Organisationen: werteorientierte Kultur und inspirierende Sinnausrichtung
+
+- eine starke, von den Mitarbeitern geteilte Kultur bewahrt dezentrale Organisationen vor dem Auseinanderfallen
+
+
