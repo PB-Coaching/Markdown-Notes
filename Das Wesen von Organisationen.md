@@ -191,3 +191,5 @@ Das Wesen von Organisationen
 
 - im Unterschied zu modernen Organisationen sollen Führungskräfte im _postmodernen Paradigma_ nicht nur distanzierte, emotionslose Problemlöser sein, sondern zugleich _Servant Leaders_ (dienende Führungskräfte)
   - sie hören ihren Mitarbeitern zu, sie ermutigen und entwickeln sie
+
+- 
