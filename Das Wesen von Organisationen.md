@@ -241,4 +241,8 @@ Das Wesen von Organisationen
   - aus der **tribalen Perspektive** sind jene Entscheidungen gut, _die dem Individuum geben, was es will_
   - das **traditionelle, konformistische Paradigma** trifft Entscheidung danach, _ob sie mit sozialen Normen konform sind_
   - in der **modernen, leistungsorientieren Perspektive** sind _Effektivität und Erfolg Maßstäbe für die Güte von Entscheidungen_
-  - auf der **postmodernen Stufe** werden Situation _nach den Kriterien der Zugehörigkeit und Harmonie beurteilt_ 
+  - auf der **postmodernen Stufe** werden Situation _nach den Kriterien der Zugehörigkeit und Harmonie beurteilt_
+
+
+- in der _modernen Perspektive_ hat Rationalität das absolute Primat inne
+  &rArr; jede Quelle der Einsicht, die nicht auf Fakten und logischer Überlegung beruht, ist entsprechend "irrational" und wird abgelehnt
