@@ -191,3 +191,17 @@ Das Wesen von Organisationen
 
 - im Unterschied zu modernen Organisationen sollen Führungskräfte im _postmodernen Paradigma_ nicht nur distanzierte, emotionslose Problemlöser sein, sondern zugleich _Servant Leaders_ (dienende Führungskräfte)
   - sie hören ihren Mitarbeitern zu, sie ermutigen und entwickeln sie
+
+
+### Der zweite Durchbruch postmoderner Organisationen: werteorientierte Kultur und inspirierende Sinnausrichtung
+
+- eine starke, gemeinsame Kultur bewahrt postmoderne, dezentrale Organisationen vor dem Auseinanderfallen
+
+- den Mitarbeitern wird das Vertrauen entgegengebracht, dass sie die richtigen Entscheidungen treffen, da sie sich an gemeinsame Werte orientieren anstatt an starren Regeln
+
+```Kultur siegt immer über Strategie```
+(Paul Drucker)
+
+**In modernen Organisationen sind Strategie und Ausführung das Wichtigste**
+
+**In postmodernen Organisationen steht die Unternehmenskultur im Mittelpunkt**
