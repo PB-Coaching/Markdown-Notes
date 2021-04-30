@@ -205,3 +205,15 @@ Das Wesen von Organisationen
 **In modernen Organisationen sind Strategie und Ausführung das Wichtigste**
 
 **In postmodernen Organisationen steht die Unternehmenskultur im Mittelpunkt**
+
+&rArr; der Fokus auf die Unternehmenskultur macht die Personalentwicklung zur entscheidenden Abteilung der Organisation
+
+
+### Der dritte Durchbruch postmoderner Organisationen: Integration unterschiedlicher Interessengruppen
+
+- postmoderne Organisationen bestehen darauf, dass es eine Hierarchie zwischen Interessengruppen nicht geben sollte (mit den Shareholden an der Spitze dieser Hierarchie)
+
+- die moderne leistungsorientierte Perspektive sieht Organisationen als Maschinen
+
+- in der postmodernen pluralistischen Perspektive hingegen ist die weitverbreitete Metapher die Familie
+
