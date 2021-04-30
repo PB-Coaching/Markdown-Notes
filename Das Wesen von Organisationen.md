@@ -1,9 +1,6 @@
 Das Wesen von Organisationen
 ========================
 
-
-# Typen von Organisationen
-
 - Die Organisationen, welche wir heute kennen, sind der Ausdruck unserer aktuellen Weltsicht und unserer gegenwärtigen Entwicklungsstufe
 
 
@@ -194,55 +191,3 @@ Das Wesen von Organisationen
 
 - im Unterschied zu modernen Organisationen sollen Führungskräfte im _postmodernen Paradigma_ nicht nur distanzierte, emotionslose Problemlöser sein, sondern zugleich _Servant Leaders_ (dienende Führungskräfte)
   - sie hören ihren Mitarbeitern zu, sie ermutigen und entwickeln sie
-  - _postmoderne Organisationen_ investieren einen beträchtlichen Anteil ihres Ausbildungbudget für neue Manager, um sie zu solchen _Servant Leaders_ auszubilden
-  - mittels **360-Grad Feedback** sind diese Führungskräfte auch gegenüber ihren Mitarbeitern rechenschaftspflichtig
-
-
-### Der zweite Durchbruch postmoderner Organisationen: werteorientierte Kultur und inspirierende Sinnausrichtung
-
-
-- Bewerber für Managementpositionen werden auf ihre Denkweise und Verhalten geprüft: _Sind sie bereit, Macht mit anderen zu teilen? Werden sie mit Ergebenheit führen?_
-- Manager sind mittels _360-Grad Feedback_ ihren Vorgesetzten, wie auch ihren Mitarbeitern Rechenschaft schuldig
-- eine starke, von den Mitarbeitern geteilte Kultur bewahrt dezentrale Organisationen vor dem Auseinanderfallen
-&rArr; Mitarbeiten wird Vertrauen entgegengebracht, dass sie die richtigen Entscheidungen treffen  - diese orientieren sich hierbei an gemeinsamen Werten statt an Regeln und Absprachen
-
-
-    Kultur siegt immer über Strategie (Peter Drucker)
-
-
-- in _modernen Organisationen_ haben Strategie und Ausführung oberste Priorität
-- in _postmodernen Organisationen_ steht hingegen die Unternehmenskultur im Mittelpunkt
-  &rArr; dieser Fokus auf die Unternehmenskultur macht die Personalabteilung oft zur Schlüsselsegment des Unternehmens
-
-
-### Der dritte Durchbruch postmoderner Organisationen: Integration verschiedener Interessengruppen
-
-- _moderne Organisationen_ handeln profitorientiert und priorisieren meisten die Interessen ihrer Inhaber/Aktionäre gegenüber den Interessen anderer Stakeholder (Mitarbeiter, Gesellschaft)
-- _postmoderne Organisationen_ hingegen bestehen darauf, dass es eine solche Hierarchie unter den verschiedenen Interessengruppen nicht geben sollte
-  &rArr; die Rolle von Führungskräften ist es daher im Kontext des postmodernen Paradigmas, die richtigen Kompromisse zu finden, so dass alle Interessengruppen berücksichtigt werden
-
-- **die moderne leistungsorientierte Perspektive sieht Organisationen als Maschinen &mdash; die postmoderne Sichtweise benutzt demgegenüber die Metapher der Familie**
-
-
-# Stufen der Entwicklung
-
-- alle Stufen bis zur _postmodernen Stufe_ gehen davon aus, dass ihre Weltsicht die einzig richtige ist
-- Menschen und Organisationen, welche sich bis zur _integralen Stufe_ entwickeln, können zum ersten Mal akzeptieren, dass es eine Evolution des Bewusstseins gibt 
-  &rArr; diese Entwicklung drückt sich in Richtung stets komplexerer und verfeinerter Verhaltens- und Beziehungsformen aus
-
-
-### Die _integrale Stufe_
-
-- indem wir die Identifikation mit unserem eigenen Ego überwinden, erlangen wir die _integrale Stufe_
-  &rArr; dadurch dass wir unser Ego aus der Distanz betrachten, sehen wir plötzlich, wie seine Ängste, Ziele und Wünsche unser Leben bestimmen 
-
-- wenn wir uns mit unserem Ego identifizieren, werden wir dazu getrieben, Entscheidungen nach äußeren Faktoren zu treffen
-
-  - aus der **tribalen Perspektive** sind jene Entscheidungen gut, _die dem Individuum geben, was es will_
-  - das **traditionelle, konformistische Paradigma** trifft Entscheidung danach, _ob sie mit sozialen Normen konform sind_
-  - in der **modernen, leistungsorientieren Perspektive** sind _Effektivität und Erfolg Maßstäbe für die Güte von Entscheidungen_
-  - auf der **postmodernen Stufe** werden Situation _nach den Kriterien der Zugehörigkeit und Harmonie beurteilt_
-
-
-- in der _modernen Perspektive_ hat Rationalität das absolute Primat inne
-  &rArr; jede Quelle der Einsicht, die nicht auf Fakten und logischer Überlegung beruht, ist entsprechend "irrational" und wird abgelehnt
