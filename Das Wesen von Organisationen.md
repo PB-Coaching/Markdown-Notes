@@ -228,3 +228,6 @@ Das Wesen von Organisationen
   &rArr; die haben verstanden, die Funktionsweisen von komplexen adaptiven Systemen aus der Natur, auf Organisationen zu übertragen
 
 - **Ganzheit:** während Organisationen traditionell Orte waren, wo Menschen Teile ihres Selbst zum Wohle des Unternehmens vernachlässigen mussten, unterstützen *evolutionäre Organisationen* ihre Mitarbeiter dabei, ihre innere Ganzheit wiederzuerlangen und ihr vollständiges Selbst in die Arbeit einzubringen 
+
+- **evolutionärer Sinn:** evolutionäre Organisationen können so verstanden werden, dass sie aus sich selbst heraus lebendig sind und sich in einer Richtung entwickeln
+  &rArr; statt die Zukunft in einem *Top-Down Approach* vorherzusagen, werden die Mitglieder der Organisation eingeladen, zuzuhören und hierbei zu verstehen, was die Organisation will und welchem Sinn sie dienen möchte
