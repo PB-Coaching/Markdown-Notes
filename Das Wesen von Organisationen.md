@@ -211,7 +211,7 @@ Das Wesen von Organisationen
 
 ### Der dritte Durchbruch postmoderner Organisationen: Integration unterschiedlicher Interessengruppen
 
-- postmoderne Organisationen bestehen darauf, dass es eine Hierarchie zwischen Interessengruppen nicht geben sollte (mit den Shareholden an der Spitze dieser Hierarchie)
+- postmoderne Organisationen bestehen darauf, dass es eine Hierarchie zwischen Interessengruppen nicht geben sollte (mit den Shareholdern an der Spitze dieser Hierarchie)
 
 - die moderne leistungsorientierte Perspektive sieht Organisationen als Maschinen
 
