@@ -235,3 +235,8 @@ Das Wesen von Organisationen
 
 ## Selbstführung evolutionärer Organisationen
 
+```Die Konzentration von Macht an der Spitze, wodurch Kollegen in Mächtige und Machtlose aufgeteilt werden, führt zu Problemen, mit denen Organisationen, seit ihrer Entstehung zu kämpfen haben```
+
+- Macht ist in Organisation in der Regel Mangelware, für die es sich zu kämpfen lohnt
+  &rArr; dies stimuliert die negativen Seiten den menschlichen Charakters: persönlicher Ehrgeiz, Neid, Misstrauen, politische Schachzüge, Gier und Angst
+  &rArr; am Boden der Machtpyramide erleben Menschen oft die Begleiterscheinungen von Machtlosigkeit: Resignation und Wut
