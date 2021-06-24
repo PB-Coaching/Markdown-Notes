@@ -225,3 +225,6 @@ Das Wesen von Organisationen
 ## Die drei Durchbrüche evolutionärer Organisationen
 
 - **Selbstführung:** evolutionäre Organisationen vollständig ohne Hierarchie, sogar ohne Konsens
+  &rArr; die haben verstanden, die Funktionsweisen von komplexen adaptiven Systemen aus der Natur, auf Organisationen zu übertragen
+
+- **Ganzheit:** während Organisationen traditionell Orte waren, wo Menschen Teile ihres Selbst zum Wohle des Unternehmens vernachlässigen mussten, unterstützen *evolutionäre Organisationen* ihre Mitarbeiter dabei, ihre innere Ganzheit wiederzuerlangen und ihr vollständiges Selbst in die Arbeit einzubringen 
