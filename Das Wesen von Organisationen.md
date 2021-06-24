@@ -231,3 +231,7 @@ Das Wesen von Organisationen
 
 - **evolutionärer Sinn:** evolutionäre Organisationen können so verstanden werden, dass sie aus sich selbst heraus lebendig sind und sich in einer Richtung entwickeln
   &rArr; statt die Zukunft in einem *Top-Down Approach* vorherzusagen, werden die Mitglieder der Organisation eingeladen, zuzuhören und hierbei zu verstehen, was die Organisation will und welchem Sinn sie dienen möchte
+
+
+## Selbstführung evolutionärer Organisationen
+
