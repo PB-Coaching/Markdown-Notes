@@ -217,3 +217,11 @@ Das Wesen von Organisationen
 
 - in der postmodernen pluralistischen Perspektive hingegen ist die weitverbreitete Metapher die Familie
 
+
+
+# Strukturen, Praktiken und Kulturen *evolutionärer Organisationen*
+
+
+## Die drei Durchbrüche evolutionärer Organisationen
+
+- **Selbstführung:** evolutionäre Organisationen vollständig ohne Hierarchie, sogar ohne Konsens
